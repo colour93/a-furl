@@ -1,0 +1,14 @@
+{
+    "mongo": {
+        "host": "XXX",
+        "port": 27017,
+        "username": "",
+        "password": ""
+    },
+    "express": {
+        "port": 9615
+    },
+    "auth": {
+        "token": "XXX"
+    }
+}
