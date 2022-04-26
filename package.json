@@ -1,0 +1,19 @@
+{
+  "name": "a-furl",
+  "version": "1.0.0",
+  "description": "a.furl.ltd 短链后端",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colour93/a-furl.git"
+  },
+  "author": "colour93",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colour93/a-furl/issues"
+  },
+  "homepage": "https://github.com/colour93/a-furl#readme"
+}
